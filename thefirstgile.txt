@@ -1,1 +1,1 @@
-this is the first commit... literally as a string
+this is a more different line than the one that existed.  therefore we will has merge conflict
