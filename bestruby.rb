@@ -1,1 +1,1 @@
-put "this is broken"
+puts "this is broken"
